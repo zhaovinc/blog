@@ -1,0 +1,5 @@
+# About Widget config
+[about]
+title = "Vincent Zhao"                        
+description = "Vincent is a software developer who lives in Brisbane, Australia."
+logo = "/images/logo.png" 
